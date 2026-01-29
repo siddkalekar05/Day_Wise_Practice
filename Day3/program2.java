@@ -1,3 +1,8 @@
+/*Check user given number is pallindrome or not 
+    which given numver = given number(when we reverse it)
+    Without using .toString() method 
+    */
+
 import java.util.*;
 class Demo2 {
     static void pallindrome(int n){
