@@ -1,3 +1,6 @@
+/* problem : Reverse the given string using string buffered and additinal string
+    to uderstand the concept of string immutability*/
+
 import java.util.*;
 class Demo1 {
     static void reverse(String s){
