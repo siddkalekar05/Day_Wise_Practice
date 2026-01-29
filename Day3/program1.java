@@ -1,4 +1,4 @@
-/* Find max ele in a array 
+/* Problem : Find max ele in a array 
     where array is user define */
 
 import java.util.*;
