@@ -1,3 +1,6 @@
+/*Method overloading example 
+    overload + operator */
+
 class Parent {
     int sum(int a , int b ){
         return a+b;
