@@ -1,3 +1,6 @@
+/*problem : write code for find factorial of given number 
+    using basic recusrion */
+
 import java.util.*;
 class Demo1 {
     static int fact(int n){
