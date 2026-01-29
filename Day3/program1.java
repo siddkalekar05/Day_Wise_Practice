@@ -1,3 +1,6 @@
+/* Find max ele in a array 
+    where array is user define */
+
 import java.util.*;
 class Demo1 {
     static void max(int arr[]){
@@ -21,4 +24,5 @@ class Demo1 {
         max(arr);
     } 
 }
+/*Tc = O(n)*/
 
