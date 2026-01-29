@@ -27,5 +27,6 @@ class Demo2 {
         int n = sc.nextInt();
         pallindrome(n);
     } 
+    
 }
-
+//Tc = O(n)
