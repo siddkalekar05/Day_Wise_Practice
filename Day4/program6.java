@@ -1,3 +1,9 @@
+/*Problem : 
+                Create a caffe logic for user for roder multiple items 
+                from online platform handle using switch case and loop for multiple items 
+                Just like billing System 
+*/
+
 import java.util.*;
 class Client6{
         public static void main(String[] args){
