@@ -1,3 +1,8 @@
+/*Problem : 
+            Calculate area of Traingle 1/2*base*height 
+            Take values from user and display area 
+*/
+
 import java.util.*;
 class Client3 {
     static void area(int h, int b){
