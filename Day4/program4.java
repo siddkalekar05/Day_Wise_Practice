@@ -1,3 +1,12 @@
+/*Problem :
+        print given pattern for user provided rows 
+        ****
+         ***
+          **
+           *
+
+*/
+
 import java.util.*;
 class Client4 {
     static void area(int r){
