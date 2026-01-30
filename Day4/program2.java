@@ -1,3 +1,8 @@
+/*Problem :
+            Create class Student with instance variable name roll_no and cgpa 
+            pass there value through constructor and print there details*/
+
+
 class Student {
     String name;
     int roll_no;
