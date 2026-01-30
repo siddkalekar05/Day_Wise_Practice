@@ -1,3 +1,6 @@
+/* Problem : create student class with instance variable name roll_no and cgpa give user define values 
+    and display information*/
+
 class Student {
     String name;
     int roll_no;
