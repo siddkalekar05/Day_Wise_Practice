@@ -1,3 +1,8 @@
+/*Problem :
+            Create a class like bank System perform operation widrawal and debit 
+            used Switch case for each case 
+    */
+
 import java.util.*;
 
 class Client5{
