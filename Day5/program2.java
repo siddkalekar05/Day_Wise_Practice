@@ -1,3 +1,9 @@
+/* Problem : 
+                Understand the working of readOnly class 
+                Where private variables and get method used no setter method we only 
+                print set operation is not allowed 
+        */
+
 class ReadOnlyAccount {
         private int balance;
         ReadOnlyAccount(int balance){
