@@ -1,4 +1,10 @@
+/*Problem : 
+        Basic implementation of encapsulation using acoount balance
+        We can change the value of public variables 
+        */
+
 class Encapsulation {
+
         public int balance;
         
         public static void main(String[] args) {
