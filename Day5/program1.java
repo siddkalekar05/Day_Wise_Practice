@@ -1,3 +1,8 @@
+/* Problem : 
+                Basic encapsulation get private name and age use 
+                setter and getter method for them and print detailed 
+        */
+
 class Person {
         private String name;
         public String getName() {
