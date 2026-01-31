@@ -1,3 +1,8 @@
+/* Problem : 
+                Working of write only class where private variables and set method is allowed we cannot get or 
+                show the info 
+                */
+
 class WriteOnlyPass {
         private String passward;
 
