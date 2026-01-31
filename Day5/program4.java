@@ -1,3 +1,8 @@
+/*problem : 
+                 Validation using setter method 
+                Where we apply cond to set data 
+        */
+
 class validation {
         private int age;
 
