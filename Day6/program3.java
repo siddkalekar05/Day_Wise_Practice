@@ -1,3 +1,7 @@
+/*Problem:
+Initialize object values using a parameterized constructor.
+        */
+
 class Demo2 {
         int a;
         int b;
