@@ -1,5 +1,6 @@
-/*Problem:
-Demonstrate constructor overloading.
+/*
+Problem:
+Demonstrate constructor chaining using this().
         */
 
 class ConstructorChaining {
