@@ -1,3 +1,7 @@
+/*Problem:
+Demonstrate the use of a default constructor in Java.
+        */
+
 class Demo {
         Demo(){
                 System.out.println("Constructor is calleed");
