@@ -1,3 +1,7 @@
+/* Problem:
+Demonstrate single inheritance in Java.
+        */
+
 class Demo1 {
         void display(){
                 System.out.println("Parent class Method");
