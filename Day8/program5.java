@@ -1,3 +1,15 @@
+/*
+Problem:
+Show benefit of polymorphism.
+
+Concept:
+Code flexibility and scalability
+
+Explanation:
+- Same interface, multiple behaviors
+- Easy to extend without modifying existing code
+*/
+
 class Payment {
     void pay() {
         System.out.println("Payment processing");
