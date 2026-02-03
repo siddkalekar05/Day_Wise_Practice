@@ -1,3 +1,16 @@
+/*
+Problem:
+Demonstrate method overloading.
+
+Concept:
+Compile-Time Polymorphism
+
+Explanation:
+- Same method name
+- Different parameter list
+- Method call decided at compile time
+*/
+
 class MethodOverloadingDemo {
 
     int add(int a, int b) {
