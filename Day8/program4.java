@@ -1,3 +1,16 @@
+/*
+Problem:
+Demonstrate polymorphism using real-world example.
+
+Concept:
+Runtime Polymorphism
+
+Explanation:
+- Same method name (area)
+- Different implementations
+- Behavior depends on object type
+*/
+
 class Shape {
     void area() {
         System.out.println("Area of shape");
