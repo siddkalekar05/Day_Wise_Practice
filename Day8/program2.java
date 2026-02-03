@@ -1,3 +1,16 @@
+/*
+Problem:
+Demonstrate method overriding.
+
+Concept:
+Runtime Polymorphism
+
+Explanation:
+- Same method name and signature
+- Inherited method is overridden
+- Method call decided at runtime
+*/
+
 class Parent {
     void show() {
         System.out.println("Parent show method");
