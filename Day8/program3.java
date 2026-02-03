@@ -1,3 +1,15 @@
+/*
+Problem:
+Demonstrate parent reference holding child object.
+
+Concept:
+Runtime Polymorphism
+
+Explanation:
+- Reference type decides accessible methods
+- Object type decides which method executes
+*/
+
 class BMW {
     void info() {
         System.out.println("Main Company");
