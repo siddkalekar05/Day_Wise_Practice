@@ -1,3 +1,15 @@
+/*
+Problem:
+Achieve multiple inheritance using interface.
+
+Concept:
+Multiple inheritance via interface
+
+Explanation:
+- Java does not support multiple inheritance using classes.
+- Achieved using interfaces.
+*/
+
 interface Printer {
     void print();
 }
