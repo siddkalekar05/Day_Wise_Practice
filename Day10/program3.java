@@ -1,3 +1,15 @@
+/*
+Problem:
+Demonstrate interface in Java.
+
+Concept:
+Interface
+
+Explanation:
+- Interface contains abstract methods by default.
+- Used to achieve 100% abstraction.
+*/
+
 interface College {
     void student();
 }
