@@ -1,5 +1,4 @@
-/*
-Problem:
+/* Problem:
 Compare abstract class and interface using real-world example.
 
 Concept:
