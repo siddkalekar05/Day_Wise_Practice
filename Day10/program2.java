@@ -1,3 +1,14 @@
+/*
+Problem:
+Show abstract class with multiple abstract methods.
+
+Concept:
+Abstraction using abstract class
+
+Explanation:
+- Child class must implement all abstract methods.
+*/
+
 abstract class Shape {
     abstract void area();
     abstract void perimeter();
