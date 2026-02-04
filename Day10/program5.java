@@ -1,3 +1,15 @@
+/*
+Problem:
+Compare abstract class and interface using real-world example.
+
+Concept:
+Abstract Class vs Interface
+
+Explanation:
+- Abstract class: IS-A relationship with shared behavior.
+- Interface: CAN-DO relationship.
+*/
+
 abstract class Payment {
     abstract void pay();
 
