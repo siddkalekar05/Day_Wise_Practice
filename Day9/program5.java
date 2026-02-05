@@ -1,3 +1,15 @@
+/*
+Problem:
+Show difference between == and equals().
+
+Concept:
+Reference vs content comparison
+
+Explanation:
+- == compares memory reference
+- equals() compares content
+*/
+
 class EqualsVsDoubleEqual {
     public static void main(String[] args) {
         String s1 = new String("Java");
