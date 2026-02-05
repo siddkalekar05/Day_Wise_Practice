@@ -1,6 +1,11 @@
+
+
+import java.util.*;
 class CountVowelsConsonants {
     public static void main(String[] args) {
-        String str = "Hello World";
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the string : ");
+        String str = sc.nextLine;
         str = str.toLowerCase();
 
         int vowels = 0, consonants = 0;
