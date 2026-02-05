@@ -1,4 +1,14 @@
+/*
+Problem:
+Count vowels and consonants in a string.
 
+Concept:
+Character traversal
+
+Explanation:
+- Convert string to lowercase
+- Check vowel characters
+*/
 
 import java.util.*;
 class CountVowelsConsonants {
