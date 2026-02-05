@@ -1,3 +1,22 @@
+/*
+Problem:
+Reverse a given string using StringBuffer.
+and check the given string is pallindrome or not 
+
+Concept:
+String manipulation using StringBuffer
+
+Explanation:
+- StringBuffer is mutable.
+- reverse() method is synchronized (thread-safe).
+- Suitable for multi-threaded environments.
+
+Why StringBuffer:
+- String is immutable.
+- StringBuilder is not thread-safe.
+- StringBuffer provides thread safety.
+	*/
+
 import java.util.*;
 class Pallindrome {
     public static void main(String[] args) {
