@@ -1,3 +1,8 @@
+/*
+Concept:
+Multiple interface implementation
+*/
+
 interface Camera {
     void click();
 }
