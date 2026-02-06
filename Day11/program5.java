@@ -1,3 +1,8 @@
+/*
+Concept:
+Interface reference polymorphism
+*/
+
 interface Animal {
     void sound();
 }
