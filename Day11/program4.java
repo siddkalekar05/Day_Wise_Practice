@@ -1,3 +1,8 @@
+/*
+Concept:
+Static method in interface
+*/
+
 interface Calculator {
     static void info() {
         System.out.println("Calculator interface");
