@@ -1,3 +1,11 @@
+/*
+Concept:
+Interface basics
+
+Explanation:
+Interface defines behavior that classes must implement.
+*/
+
 interface Vehicle {
     void start();
 }
