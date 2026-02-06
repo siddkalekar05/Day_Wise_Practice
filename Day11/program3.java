@@ -1,3 +1,8 @@
+/*
+Concept:
+Default methods in interface
+*/
+
 interface Printer {
     void print();
 
