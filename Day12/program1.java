@@ -1,3 +1,11 @@
+/*
+Scenario:
+Booking movie tickets using a function.
+
+Concept:
+Exception handling with method arguments.
+*/
+
 class TicketBooking {
 
     static void bookTickets(int availableSeats, int requestedSeats) throws Exception {
