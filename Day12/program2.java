@@ -1,3 +1,9 @@
+/*
+Scenario:
+Convert rating input to integer using a function.
+*/
+
+
 class FoodDeliveryRating {
 
     static int parseRating(String ratingInput) {
