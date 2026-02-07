@@ -1,3 +1,8 @@
+/*
+Scenario:
+Airport passport validation using function arguments.
+*/
+
 class AirportCheckIn {
 
     static void validatePassport(String passport) throws Exception {
