@@ -1,3 +1,8 @@
+/*
+Scenario:
+Temperature sensor reading function.
+*/
+
 class SmartHomeSensor {
 
     static void readTemperature() {
