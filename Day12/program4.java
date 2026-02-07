@@ -1,3 +1,8 @@
+/*
+Scenario:
+Electric scooter battery check using function.
+*/
+
 class LowBatteryException extends Exception {
     LowBatteryException(String message) {
         super(message);
