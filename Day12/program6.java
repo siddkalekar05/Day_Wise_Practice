@@ -1,4 +1,14 @@
+/*
+Scenario:
+Validating online payment amount before processing.
 
+Concept:
+Exception handling using function arguments.
+
+Explanation:
+- Method receives payment amount.
+- Throws exception if amount is invalid.
+*/
 
 class OnlinePaymentValidation {
 
