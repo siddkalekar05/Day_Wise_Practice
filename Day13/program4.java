@@ -1,3 +1,13 @@
+/*
+Day 13 — Java Keywords
+
+Program:
+static variable example
+
+Concept:
+static variable shared among all objects.
+*/
+
 class Count1 {
     static int a = 10;
     Count1(){
