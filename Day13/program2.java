@@ -1,3 +1,13 @@
+/*
+Day 13 — Java Keywords
+
+Program:
+this() constructor chaining
+
+Concept:
+Calling one constructor from another in same class.
+*/
+
 class ThisDemo1 {
     static String name ;
     static int a;
