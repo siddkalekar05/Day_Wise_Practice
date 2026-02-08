@@ -1,3 +1,13 @@
+/*
+Day 13 — Java Keywords
+
+Program:
+super keyword example
+
+Concept:
+Access parent class variable using super.
+*/
+
 class Device {
     static String a = "Oneplus11R";
 }
