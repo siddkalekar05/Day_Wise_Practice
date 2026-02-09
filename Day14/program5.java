@@ -1,3 +1,20 @@
+/*
+Day 14 — Collections (List)
+
+Program:
+Remove duplicates using HashSet
+
+Concept:
+Set does not allow duplicate values
+
+Explanation:
+- Convert List → Set
+- Duplicates automatically removed.
+
+Time Complexity:
+O(n)
+*/
+
 import java.util.*;
 class CollectionDemo5 {
     public static void main(String[] args) {
