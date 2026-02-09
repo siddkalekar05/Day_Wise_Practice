@@ -1,3 +1,20 @@
+/*
+Day 14 — Collections (List)
+
+Program:
+Iterating ArrayList using for-each loop
+
+Concept:
+List traversal
+
+Explanation:
+- for-each loop simplifies iteration.
+- Works well when index is not required.
+
+Time Complexity:
+O(n)
+*/
+
 import java.util.*;
 class CollectionDemo2 {
     public static void main(String[] args) {
