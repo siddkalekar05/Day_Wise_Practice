@@ -1,3 +1,8 @@
+/*
+Concept:
+HashMap stores key-value pairs.
+*/
+
 import java.util.*;
 class CollectionDemo4{
     public static void main(String[] args) {
