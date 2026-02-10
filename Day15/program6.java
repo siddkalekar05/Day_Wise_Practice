@@ -1,3 +1,8 @@
+/*
+Concept:
+Counting frequency using HashMap.
+*/
+
 import java.util.*;
 
 class CollectionDemo6 {
