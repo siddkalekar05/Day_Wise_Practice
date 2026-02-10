@@ -1,3 +1,8 @@
+/*
+Concept:
+LinkedHashSet maintains insertion order.
+*/
+
 import java.util.*;
 class CollectionDemo2{
     public static void main(String[] args) {
