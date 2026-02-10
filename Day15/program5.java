@@ -1,3 +1,8 @@
+/*
+Concept:
+Iterating HashMap using entrySet().
+*/
+
 import java.util.*;
 class CollectionDemo5{
     public static void main(String[] args) {
