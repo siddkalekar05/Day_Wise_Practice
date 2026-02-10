@@ -1,3 +1,8 @@
+/*
+Concept:
+TreeSet stores elements in sorted order.
+*/
+
 import java.util.*;
 class CollectionDemo3{
     public static void main(String[] args) {
