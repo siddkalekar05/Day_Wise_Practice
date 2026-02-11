@@ -1,3 +1,8 @@
+/*
+Concept:
+Stack follows LIFO (Last In First Out).
+*/
+
 import java.util.*;
 class StackDemo1{
 	public static void main(String[] args){
