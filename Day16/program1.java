@@ -1,3 +1,10 @@
+/*
+Day 16 — Queue
+
+Concept:
+Queue follows FIFO (First In First Out).
+*/
+
 import java.util.*;
 class QueueDemo{
 	public static void main(String[] args){
