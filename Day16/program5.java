@@ -1,3 +1,8 @@
+/*
+Concept:
+PriorityQueue stores elements in sorted order.
+*/
+
 import java.util.*;
 class PriQueDemo{
 	public static void main(String[] args){
