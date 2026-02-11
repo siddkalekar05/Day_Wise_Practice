@@ -1,3 +1,9 @@
+/*
+Concept:
+peek() → view first element
+poll() → remove first element
+*/
+
 import java.util.*;
 class QueueDemo2{
 	public static void main(String[] args){
