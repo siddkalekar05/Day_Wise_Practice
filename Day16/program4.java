@@ -1,3 +1,9 @@
+/*
+Concept:
+pop() removes top element
+peek() returns top element
+*/
+
 import java.util.*;
 class StackDemo2{
 	public static void main(String[] args){
