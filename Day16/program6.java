@@ -3,6 +3,7 @@ Concept:
 PriorityQueue removes smallest element first.
 */
 
+
 import java.util.*;
 class PriorityDemo{
 	public static void main(String[] args){
