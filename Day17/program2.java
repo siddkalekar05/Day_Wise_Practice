@@ -1,3 +1,8 @@
+/*
+Concept:
+Removing elements from both ends.
+*/
+
 import java.util.*;
 class DequeDemo2{
 	public static void main(String[] args){
