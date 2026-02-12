@@ -2,7 +2,6 @@
 Concept:
 Removing elements from both ends.
 */
-
 import java.util.*;
 class DequeDemo2{
 	public static void main(String[] args){
@@ -12,6 +11,7 @@ class DequeDemo2{
 		q.add(30);
 		System.out.println(q);
 
+		//Remove Operations 
 		q.removeFirst();
 		q.removeLast();
 		System.out.println(q);
