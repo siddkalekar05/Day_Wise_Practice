@@ -1,3 +1,10 @@
+/*
+Day 17 — Deque
+
+Concept:
+Deque allows insertion from both ends.
+*/
+
 import java.util.*;
 class DequeDemo1{
 	public static void main(String[] args){
