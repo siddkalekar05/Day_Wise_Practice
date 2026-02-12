@@ -1,3 +1,8 @@
+/*
+Concept:
+Undo system using Deque.
+*/
+
 import java.util.*;
 class DequeDemo6{
 	public static void main(String[] args){
