@@ -1,3 +1,8 @@
+/*
+Concept:
+Iterating through deque.
+*/
+
 import java.util.*;
 class DequeDemo5{
 	public static void main(String[] args){
