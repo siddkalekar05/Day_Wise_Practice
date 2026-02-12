@@ -2,7 +2,6 @@
 Concept:
 ArrayDeque used as Stack (LIFO).
 */
-
 import java.util.*;
 class DequeDemo3{
 	public static void main(String[] args){
@@ -13,6 +12,7 @@ class DequeDemo3{
 		q.push(40);
 		System.out.println(q);
 
+		//Perform pop and peek Operations
 		System.out.println(q.pop());
 		System.out.println(q.peek());
 		System.out.println(q);
