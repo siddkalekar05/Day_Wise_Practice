@@ -1,3 +1,8 @@
+/*
+Concept:
+ArrayDeque used as Queue (FIFO).
+*/
+
 import java.util.*;
 class DequeDemo4{
 	public static void main(String[] args){
