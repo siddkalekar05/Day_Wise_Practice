@@ -1,3 +1,8 @@
+/*
+Concept:
+ArrayDeque used as Stack (LIFO).
+*/
+
 import java.util.*;
 class DequeDemo3{
 	public static void main(String[] args){
