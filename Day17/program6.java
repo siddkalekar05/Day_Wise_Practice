@@ -12,7 +12,7 @@ class DequeDemo6{
 		q.add("List4");
 		q.add("List5");
 		System.out.println(q);
-
+//Permorm Operation of UNDU
 		System.out.println("UNDO1 : "+q.pop());
 		System.out.println("UNDO2 : "+q.pop());
 		System.out.println(q);
