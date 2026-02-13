@@ -1,3 +1,9 @@
+/*
+Concept:
+Removing elements safely using iterator.
+*/
+
+
 import java.util.*;
 class IteratorDemo2{
 	public static void main(String[] args){
