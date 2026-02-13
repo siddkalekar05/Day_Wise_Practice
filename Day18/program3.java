@@ -1,3 +1,8 @@
+/*
+Concept:
+Comparable interface for natural sorting.
+*/
+
 import java.util.*;
 class IteratorDemo3 implements Comparable<IteratorDemo3>{
 	int marks;
