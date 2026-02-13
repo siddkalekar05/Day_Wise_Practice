@@ -1,3 +1,8 @@
+/*
+Concept:
+Comparator using lambda expression.
+*/
+
 import java.util.*;
 
 class IteratorDemo5 {
