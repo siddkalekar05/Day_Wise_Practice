@@ -1,3 +1,10 @@
+/*
+Day 18 — Iterator
+
+Concept:
+Iterator is used to traverse a collection.
+*/
+
 import java.util.*;
 class IteratorDemo1{
 	public static void main(String[] args){
