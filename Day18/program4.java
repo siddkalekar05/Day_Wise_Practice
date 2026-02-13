@@ -1,3 +1,8 @@
+/*
+Concept:
+Comparator for custom sorting.
+*/
+
 import java.util.*;
 class Employee {
     int salary;
