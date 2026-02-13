@@ -1,3 +1,8 @@
+/*
+Concept:
+Custom sorting using comparator.
+*/
+
 import java.util.*;
 
 class IteratorDemo6 {
