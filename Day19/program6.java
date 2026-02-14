@@ -1,3 +1,8 @@
+/*
+Concept:
+Simple log writer using FileWriter.
+*/
+
 import java.io.*;
 
 class FileDemo6 {
