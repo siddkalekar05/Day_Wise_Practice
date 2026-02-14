@@ -1,3 +1,8 @@
+/*
+Concept:
+Writing file using PrintWriter.
+*/
+
 import java.io.*;
 class FileDemo5{
 	public static void main(String[] args)throws IOException{
