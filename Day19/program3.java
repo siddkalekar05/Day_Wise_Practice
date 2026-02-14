@@ -1,3 +1,8 @@
+/*
+Concept:
+Reading file using FileReader.
+*/
+
 import java.io.*;
 class FileDemo3{
 	public static void main(String[] args)throws IOException{
