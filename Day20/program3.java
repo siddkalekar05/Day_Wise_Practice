@@ -1,3 +1,8 @@
+/*
+Concept:
+Reading object from file.
+*/
+
 import java.io.*;
 
 class DeserializeExample {
