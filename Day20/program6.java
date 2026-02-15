@@ -1,3 +1,8 @@
+/*
+Concept:
+Serialize User Object.
+*/
+
 import java.io.*;
 
 class SerializeUser {
