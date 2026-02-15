@@ -1,3 +1,9 @@
+/*
+Concept:
+Writing object to file.
+*/
+
+
 import java.io.*;
 
 class SerializeExample {
