@@ -1,3 +1,8 @@
+/*
+Concept:
+transient field is not serialized.
+*/
+
 import java.io.*;
 
 class User implements Serializable {
