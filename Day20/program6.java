@@ -1,6 +1,6 @@
 /*
 Concept:
-Serialize User Object.
+De - Serialize User Object.
 */
 
 import java.io.*;
