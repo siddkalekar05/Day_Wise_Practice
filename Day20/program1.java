@@ -1,3 +1,10 @@
+/*
+Day 20 — Serialization
+
+Concept:
+Creating a serializable class.
+*/
+
 import java.io.Serializable;
 
 class Student implements Serializable {
