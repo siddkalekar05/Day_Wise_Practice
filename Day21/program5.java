@@ -1,3 +1,8 @@
+/*
+Concept:
+join() waits for thread to finish.
+*/
+
 class ThreadDemo5 extends Thread {
     public void run() {
         System.out.println("Thread running...");
