@@ -1,3 +1,8 @@
+/*
+Concept:
+Thread using lambda expression.
+*/
+
 class ThreadDemo6 {
     public static void main(String[] args) {
         Thread t = new Thread(() -> {
