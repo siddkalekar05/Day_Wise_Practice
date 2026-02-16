@@ -1,3 +1,8 @@
+/*
+Concept:
+Running multiple threads.
+*/
+
 class ThreadDemo3 extends Thread{
         public void run(){
                 System.out.println("Thread Create : "+Thread.currentThread().getName());
