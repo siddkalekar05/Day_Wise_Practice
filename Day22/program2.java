@@ -1,3 +1,8 @@
+/*
+Concept:
+Synchronized method.
+*/
+
 class CounterSafe {
     int count = 0;
 
