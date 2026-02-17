@@ -1,3 +1,8 @@
+/*
+Concept:
+Synchronization on shared object.
+*/
+
 class Message {
     synchronized void print(String msg) {
         System.out.println(msg);
