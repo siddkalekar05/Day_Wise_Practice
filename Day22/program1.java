@@ -1,3 +1,10 @@
+/*
+Day 22 — Synchronization
+
+Concept:
+Race condition without synchronization.
+*/
+
 class Counter {
     int count = 0;
 
