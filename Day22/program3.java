@@ -1,3 +1,8 @@
+/*
+Concept:
+Synchronized block.
+*/
+
 class CounterBlock {
     int count = 0;
 
