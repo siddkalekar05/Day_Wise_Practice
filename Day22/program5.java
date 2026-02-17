@@ -1,3 +1,8 @@
+/*
+Concept:
+Thread-safe withdrawal.
+*/
+
 class BankAccount {
     int balance = 1000;
 
