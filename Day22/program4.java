@@ -1,3 +1,8 @@
+/*
+Concept:
+Static synchronized method.
+*/
+
 class Printer {
     static synchronized void print() {
         System.out.println(Thread.currentThread().getName());
