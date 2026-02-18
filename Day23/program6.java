@@ -1,3 +1,8 @@
+/*
+Concept:
+Background logging task.
+*/
+
 class Message {
     synchronized void print(String msg) {
         System.out.println(msg);
