@@ -1,3 +1,10 @@
+/*
+Day 23 — ExecutorService
+
+Concept:
+Fixed thread pool.
+*/
+
 class Counter {
     int count = 0;
 
