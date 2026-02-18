@@ -1,3 +1,8 @@
+/*
+Concept:
+Callable returns result.
+*/
+
 class CounterBlock {
     int count = 0;
 
