@@ -1,3 +1,8 @@
+/*
+Concept:
+Submitting multiple tasks.
+*/
+
 class CounterSafe {
     int count = 0;
 
