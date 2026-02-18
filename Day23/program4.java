@@ -1,3 +1,8 @@
+/*
+Concept:
+Runnable vs Callable.
+*/
+
 class Printer {
     static synchronized void print() {
         System.out.println(Thread.currentThread().getName());
