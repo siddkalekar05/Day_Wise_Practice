@@ -1,3 +1,19 @@
+/*
+Day 24 — Java Streams (Part 1)
+Program:
+Filtering even numbers using filter()
+
+Concept:
+filter() intermediate operation
+
+Explanation:
+- filter() accepts Predicate.
+- It selects elements matching condition.
+- Execution happens only after terminal operation.
+
+Learning Outcome:
+Understanding stream filtering logic.
+*/
 import java.util.*;
 class StreamDemo2{
         public static void main(String[] args){
