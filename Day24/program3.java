@@ -1,3 +1,20 @@
+/*
+Day 24 — Java Streams 
+Program:
+Transforming elements using map()
+
+Concept:
+map() intermediate operation
+
+Explanation:
+- map() transforms each element.
+- Accepts Function<T, R>.
+- Used for data transformation.
+
+Learning Outcome:
+Understanding transformation using streams.
+*/
+
 import java.util.*;
 class StreamDemo3{
         public static void main(String[] args){
