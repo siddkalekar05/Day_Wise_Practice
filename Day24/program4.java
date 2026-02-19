@@ -1,3 +1,19 @@
+/*
+Day 24 — Java Streams 
+Program:
+Filtering and collecting into List
+
+Concept:
+collect() terminal operation
+
+Explanation:
+- collect() gathers stream result into collection.
+- Collectors.toList() converts stream to List.
+- Commonly used in backend data processing.
+
+Learning Outcome:
+Understanding result collection from stream.
+*/
 import java.util.*;
 class StreamDemo4{
         public static void main(String[] args){
