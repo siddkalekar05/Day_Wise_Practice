@@ -1,5 +1,5 @@
 /*
-Day 24 — Java Streams (Part 1)
+Day 24 — Java Streams 
 Program:
 Filtering even numbers using filter()
 
