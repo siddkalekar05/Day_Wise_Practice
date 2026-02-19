@@ -1,3 +1,20 @@
+/*
+Day 24 — Java Streams 
+Program:
+Sorting elements using sorted()
+
+Concept:
+sorted() intermediate operation
+
+Explanation:
+- sorted() arranges elements in natural order.
+- Requires Comparable implementation.
+- Executes only when terminal operation is called.
+
+Learning Outcome:
+Understanding stream-based sorting.
+*/
+
 import java.util.*;
 import java.util.stream.Collectors;
 class StreamDemo5{
