@@ -1,3 +1,7 @@
+/*
+Concept:
+skip() ignores first N elements
+*/
 import java.util.*;
 class StreamDemo3{
         public static void main(String[] args){
