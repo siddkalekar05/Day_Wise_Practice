@@ -1,3 +1,7 @@
+/*
+Concept:
+Finding elements in stream
+*/
 import java.util.*;
 class StreamDemo6{
 	public static void main(String[] args){
