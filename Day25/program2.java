@@ -1,3 +1,7 @@
+/*
+Concept:
+limit() restricts number of elements
+*/
 import java.util.*;
 class StreamDemo2{
         public static void main(String[] args){
