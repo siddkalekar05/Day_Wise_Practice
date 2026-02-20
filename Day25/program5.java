@@ -1,3 +1,7 @@
+/*
+Concept:
+Matching operations
+*/
 import java.util.*;
 import java.util.stream.Collectors;
 class StreamDemo5{
