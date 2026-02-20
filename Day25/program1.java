@@ -1,3 +1,7 @@
+/*
+Concept:
+Remove duplicates using distinct()
+*/
 import java.util.*;
 class StreamDemo1{
 	public static void main(String[] args){
