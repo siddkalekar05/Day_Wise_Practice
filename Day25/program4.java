@@ -1,3 +1,7 @@
+/*
+Concept:
+peek() used for debugging
+*/
 import java.util.*;
 class StreamDemo4{
         public static void main(String[] args){
