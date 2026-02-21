@@ -1,3 +1,26 @@
+/*
+Day 26 — Streams Advanced
+
+Program:
+Generating statistics using summarizingInt()
+
+Concept:
+Collectors.summarizingInt()
+
+Explanation:
+- Calculates count, sum, min, max, average in one pass.
+- n -> n means use the integer itself.
+- Returns IntSummaryStatistics object.
+- Provides methods:
+  getSum(), getAverage(), getMin(), getMax(), getCount().
+
+Use Case:
+Generating reports,
+Analytics dashboards.
+
+Learning Outcome:
+Understanding statistical aggregation in Streams.
+*/
 import java.util.*;
 import java.util.stream.Collectors;
 
