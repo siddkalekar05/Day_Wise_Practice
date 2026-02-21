@@ -1,3 +1,27 @@
+/*
+Day 26 — Streams Advanced
+
+Program:
+Partitioning numbers into even and odd
+
+Concept:
+Collectors.partitioningBy()
+
+Explanation:
+- partitioningBy() divides elements into two groups.
+- Predicate decides TRUE or FALSE group.
+- Returns Map<Boolean, List<T>>.
+- TRUE group = condition satisfied.
+- FALSE group = condition not satisfied.
+
+Use Case:
+Splitting active/inactive users,
+Even/odd numbers,
+Pass/fail students.
+
+Learning Outcome:
+Understanding boolean-based grouping.
+*/
 import java.util.*;
 import java.util.stream.Collectors;
 
