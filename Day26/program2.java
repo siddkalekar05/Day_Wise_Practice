@@ -1,3 +1,23 @@
+/*
+Day 26 — Streams Advanced
+
+Program:
+Finding maximum using reduce()
+
+Concept:
+reduce() with method reference
+
+Explanation:
+- Integer.MIN_VALUE is identity value.
+- Integer::max compares two numbers and returns larger.
+- Stream iterates and keeps updating maximum.
+
+Use Case:
+Finding highest/lowest values in datasets.
+
+Learning Outcome:
+Using reduce() for comparison operations.
+*/
 import java.util.*;
 class StreamDemo2{
 	public static void main(String[] args){
