@@ -1,3 +1,21 @@
+/*
+Day 27 — Exception Handling
+
+Program:
+Basic try-catch example
+
+Concept:
+Handling runtime exception (ArithmeticException)
+
+Explanation:
+- Code inside try block may throw exception.
+- Division by zero causes ArithmeticException.
+- catch block handles the exception and prevents program crash.
+
+Learning Outcome:
+Understanding how try-catch prevents abnormal program termination.
+*/
+
 import java.util.*;
 class EXCPDemo1{
 	public static void main(String[] args){
