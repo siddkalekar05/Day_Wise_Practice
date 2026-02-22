@@ -1,3 +1,21 @@
+/*
+Day 27 — Exception Handling
+
+Program:
+Using throw keyword
+
+Concept:
+Manually throwing exception
+
+Explanation:
+- throw is used to explicitly create and throw an exception.
+- If condition fails (age < 18), program throws exception.
+- If not caught, program terminates with stack trace.
+
+Learning Outcome:
+Understanding manual exception generation using throw.
+*/
+
 import java.util.*;
 class EXCPDemo4{
 	public static void main(String[] args){
