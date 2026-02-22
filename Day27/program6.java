@@ -1,3 +1,23 @@
+/*
+Day 27 — Exception Handling
+
+Program:
+Creating and using custom exception
+
+Concept:
+User-defined exception (Checked Exception)
+
+Explanation:
+- InvalidAgeException extends Exception.
+- Custom exception represents business rule violation.
+- throw is used to create exception object.
+- throws declares method may throw exception.
+- catch handles custom exception.
+
+Learning Outcome:
+Understanding creation and usage of custom exceptions.
+*/
+
 import java.util.*;
 
 class Invalid extends Exception{
