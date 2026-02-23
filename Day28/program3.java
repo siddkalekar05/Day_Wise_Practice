@@ -1,3 +1,7 @@
+/*
+Concept:
+Auto-closing resources (Java 7+)
+*/
 import java.io.*;
 
 class ExcpDemo3 {
