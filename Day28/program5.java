@@ -1,3 +1,7 @@
+/*
+Concept:
+Multiple catch in single block
+*/
 class InvalidAmountException extends RuntimeException {
     InvalidAmountException(String msg) {
         super(msg);
