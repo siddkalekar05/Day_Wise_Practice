@@ -1,4 +1,7 @@
-class ExcpDemo2 {
+/*
+Concept:
+Difference between Checked and Unchecked Exception
+*/class ExcpDemo2 {
 
     static void method3() {
         int a = 10 / 0;
