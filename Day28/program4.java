@@ -1,3 +1,7 @@
+/*
+Concept:
+Auto-closing resources (Java 7+)
+*/
 class ExcpDemo4 {
     public static void main(String[] args) {
 
