@@ -1,3 +1,7 @@
+/*
+Concept:
+Custom Runtime Exception
+*/
 class ExcpDemo6 {
 
     static void check() {
