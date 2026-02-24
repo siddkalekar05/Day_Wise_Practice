@@ -1,3 +1,15 @@
+/*
+Problem:
+Proper resource management.
+
+Concept:
+try-with-resources (Java 7+)
+
+Why?
+- Automatically closes resources.
+- Prevents memory leaks.
+*/
+
 import java.io.*;
 
 class ExcpDemo6 {
