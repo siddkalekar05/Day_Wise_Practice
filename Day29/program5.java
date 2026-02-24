@@ -1,3 +1,15 @@
+/*
+Problem:
+Wrap lower-level exception into custom exception.
+
+Concept:
+Exception wrapping (Layered architecture).
+
+Why?
+- Hide internal implementation details.
+- Preserve original cause using super(message, cause).
+*/
+
 class ExcpDemo5{
 
     static void serviceLayer() {
