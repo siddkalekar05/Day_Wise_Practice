@@ -1,3 +1,14 @@
+/*
+Problem:
+Avoid using exceptions for normal validation.
+
+Concept:
+Validate input before risky operation.
+
+Why?
+- Exception handling is expensive.
+- Should represent exceptional cases only.
+*/
 class ExcpDemo7_AvoidExceptionForFlow {
 
     public static void main(String[] args) {
