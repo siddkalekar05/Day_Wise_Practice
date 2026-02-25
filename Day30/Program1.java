@@ -1,3 +1,15 @@
+/*
+Problem:
+Demonstrate exception chaining using cause.
+
+Concept:
+Exception Chaining
+
+Why?
+- Preserve original exception
+- Helpful in layered applications
+*/
+
 class ExcpDemo1 {
 
     static void lowLevel() {
