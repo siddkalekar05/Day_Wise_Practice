@@ -1,4 +1,10 @@
+/*
+Problem:
+Difference between checked and unchecked custom exception.
 
+Concept:
+Exception type selection.
+*/
 
 class CheckedExceptionExample extends Exception {
     CheckedExceptionExample(String msg) {
