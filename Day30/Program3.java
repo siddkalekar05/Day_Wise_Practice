@@ -1,3 +1,13 @@
+/*
+Problem:
+Understand rules of overriding with exceptions.
+
+Concept:
+Exception in method overriding.
+
+Rule:
+- Child class cannot throw broader checked exception.
+*/
 
 class Parent {
     void display() throws Exception {
